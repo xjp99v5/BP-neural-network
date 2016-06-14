@@ -1,14 +1,14 @@
-﻿生成启动时间为 2014/10/28 22:41:48。
-     1>项目“D:\Study\PostGrua1\计算智能\BP_NN\BP_NN1\BP_NN1.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 6/14/2016 7:48:42 PM。
+     1>项目“D:\Study\PostGrad1\计算智能\BP_NN\BP_NN1\BP_NN1.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
          Main.cpp
-     1>d:\study\postgrua1\计算智能\bp_nn\bp_nn1\main.cpp(77): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>d:\study\postgrad1\计算智能\bp_nn\bp_nn1\main.cpp(77): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
        Link:
-         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Study\PostGrua1\计算智能\BP_NN\Debug\BP_NN1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Study\PostGrua1\计算智能\BP_NN\Debug\BP_NN1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Study\PostGrua1\计算智能\BP_NN\Debug\BP_NN1.lib" /MACHINE:X86 Debug\Main.obj
-         BP_NN1.vcxproj -> D:\Study\PostGrua1\计算智能\BP_NN\Debug\BP_NN1.exe
-     1>已完成生成项目“D:\Study\PostGrua1\计算智能\BP_NN\BP_NN1\BP_NN1.vcxproj”(Build 个目标)的操作。
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Study\PostGrad1\计算智能\BP_NN\Debug\BP_NN1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Study\PostGrad1\计算智能\BP_NN\Debug\BP_NN1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Study\PostGrad1\计算智能\BP_NN\Debug\BP_NN1.lib" /MACHINE:X86 Debug\Main.obj
+         BP_NN1.vcxproj -> D:\Study\PostGrad1\计算智能\BP_NN\Debug\BP_NN1.exe
+     1>已完成生成项目“D:\Study\PostGrad1\计算智能\BP_NN\BP_NN1\BP_NN1.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:20.56
+已用时间 00:00:04.65
